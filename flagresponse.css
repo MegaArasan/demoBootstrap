@@ -1,0 +1,13 @@
+.container{
+    font-family: "Poppins";
+}
+.details > .p{
+    padding: 1px;
+}
+.flag{
+    background-color: teal;
+    margin: 0.5rem;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: thistle;
+}
